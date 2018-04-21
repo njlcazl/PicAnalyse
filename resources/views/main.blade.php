@@ -68,7 +68,7 @@
             <!-- These are our grid blocks -->
         </div>
 
-        <div class="paginate">
+        <div class="paginate" align="center">
             {{ $pictures->appends(['keywords' => $keywords ])->links() }}
         </div>
     </body>

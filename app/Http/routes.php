@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/index', 'MainController@index');
+Route::get('/', 'MainController@index');
 
 Route::get('/search', 'MainController@search');
