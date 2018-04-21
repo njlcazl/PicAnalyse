@@ -63,7 +63,10 @@
         </div><!-- /.row -->
         <div id="container">
             @foreach ($pictures as $picture)
-                <div><img src="{{ $picture->url }}" width="220"><h4>{{ $picture->title }}</h4></div>
+                <div>
+                    <img src="{{ $picture->url }}" width="220">
+                    <a href="{{ $picture->url }}"><h4>{{ $picture->title }}</h4></a>
+                </div>
             @endforeach
             <!-- These are our grid blocks -->
         </div>
