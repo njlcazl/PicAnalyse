@@ -65,8 +65,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-76" />
-    <option name="y" value="17" />
+    <option name="x" value="46" />
+    <option name="y" value="49" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -397,15 +397,15 @@
       <updated>1524299983422</updated>
       <workItem from="1524299985050" duration="39000" />
       <workItem from="1524300027905" duration="20000" />
-      <workItem from="1524300089919" duration="12047000" />
+      <workItem from="1524300089919" duration="12494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12106000" />
+    <option name="totallyTimeSpent" value="12553000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-76" y="17" width="1440" height="900" extended-state="0" />
+    <frame x="46" y="49" width="1440" height="900" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
